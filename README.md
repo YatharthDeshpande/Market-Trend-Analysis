@@ -151,8 +151,11 @@ Key libraries used in this project:
 ## 🔮 Future Enhancements
 
 -[ ] 🤖 Train a generalized base model on multiple stocks and fine-tune for specifics.
+
 -[ ] 📰 Integrate sentiment analysis from financial news.
+
 -[ ] 🧠 Explore advanced architectures like Transformers.
+
 -[ ] ☁️ Deploy the application to a cloud service for public access.
 
 ---
