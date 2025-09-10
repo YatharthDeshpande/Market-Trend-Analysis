@@ -1,0 +1,10 @@
+yfinance
+pandas
+numpy
+tensorflow
+keras-tuner
+scikit-learn
+plotly
+streamlit
+ta
+nsepy
